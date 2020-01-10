@@ -1,1 +1,1 @@
-worker: calc.py
+worker: python calc.py
